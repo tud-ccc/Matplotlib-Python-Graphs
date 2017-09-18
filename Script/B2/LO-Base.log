@@ -1,0 +1,16 @@
+NVMain command line is:
+./nvmain.fast Config/3D_DRAMCache_example_LAMOST.config Tests/Traces/hello_world.nvt 1000000 
+
+i0.offChipMemory.channel0.FRFCFS.rb_hits 2650
+i0.offChipMemory.channel1.FRFCFS.rb_miss 268c
+
+i0.defaultMemory.channel0.DRC.LAMOST0.rb_hitrate 0.509615
+
+i0.defaultMemory.channel0.DRC.LAMOST0.drc_hits 2691
+i0.defaultMemory.channel0.DRC.LAMOST0.drc_miss 2726
+
+i0.defaultMemory.channel0.DRC.LAMOST0.drc_hitrate 0.5843514
+
+i0.defaultMemory.channel0.DRC.LAMOST0.tagCacheHits 2722
+i0.defaultMemory.channel0.DRC.LAMOST0.tagCacheMisses 2844
+
